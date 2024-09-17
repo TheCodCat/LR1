@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\LR_1\bin\Debug\net8.0\LR_1.exe
+C:\Users\user\Desktop\LR_1\bin\Debug\net8.0\LR_1.deps.json
+C:\Users\user\Desktop\LR_1\bin\Debug\net8.0\LR_1.runtimeconfig.json
+C:\Users\user\Desktop\LR_1\bin\Debug\net8.0\LR_1.dll
+C:\Users\user\Desktop\LR_1\bin\Debug\net8.0\LR_1.pdb
+C:\Users\user\Desktop\LR_1\obj\Debug\net8.0\LR_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LR_1\obj\Debug\net8.0\LR_1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LR_1\obj\Debug\net8.0\LR_1.AssemblyInfo.cs
+C:\Users\user\Desktop\LR_1\obj\Debug\net8.0\LR_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LR_1\obj\Debug\net8.0\LR_1.dll
+C:\Users\user\Desktop\LR_1\obj\Debug\net8.0\refint\LR_1.dll
+C:\Users\user\Desktop\LR_1\obj\Debug\net8.0\LR_1.pdb
+C:\Users\user\Desktop\LR_1\obj\Debug\net8.0\LR_1.genruntimeconfig.cache
+C:\Users\user\Desktop\LR_1\obj\Debug\net8.0\ref\LR_1.dll
